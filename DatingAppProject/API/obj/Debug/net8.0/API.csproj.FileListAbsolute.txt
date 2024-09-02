@@ -129,3 +129,5 @@ D:\Programing\Angular + .NET\DatingAppProject\API\obj\Debug\net8.0\refint\API.dl
 D:\Programing\Angular + .NET\DatingAppProject\API\obj\Debug\net8.0\API.pdb
 D:\Programing\Angular + .NET\DatingAppProject\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\Programing\Angular + .NET\DatingAppProject\API\obj\Debug\net8.0\ref\API.dll
+D:\Programing\Angular + .NET\DatingAppProject\API\bin\Debug\net8.0\Data\UserSeedData.json
+D:\Programing\Angular + .NET\DatingAppProject\API\bin\Debug\net8.0\AutoMapper.dll
