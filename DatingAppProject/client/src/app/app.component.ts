@@ -5,6 +5,7 @@ import { User } from './_models/user';
 import { AccountService } from './_services/account.service';
 import { HomeComponent } from './home/home.component';
 import { NavComponent } from './nav/nav.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @Component({
   selector: 'app-root',
